@@ -21,6 +21,18 @@
 - Communicated through slack - virtual daily standup meetings
 - Utilized GitHub throughout the process to manage project 
 
+## Prerequisites
+To run this application you need 
+```
+[Walmart API](https://developer.walmartlabs.com/member)
+eBay API
+```
+## Installing
+ Clone the Project:
+ ```
+ https://github.com/wbudoyo07/Searchify.git
+ ```
+ 
 ## Technologies Used:
 [Bootstrap](https://getbootstrap.com/)
 [Vex](https://github.hubspot.com/vex/docs/welcome/)
