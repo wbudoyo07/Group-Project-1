@@ -22,11 +22,12 @@
 - Utilized GitHub throughout the process to manage project 
 
 ## Prerequisites
+
 To run this application you need 
-```
+
 [Walmart API](https://developer.walmartlabs.com/member)
-eBay API
-```
+[eBay API](https://developer.ebay.com/)
+
 ## Installing
  Clone the Project:
  ```
